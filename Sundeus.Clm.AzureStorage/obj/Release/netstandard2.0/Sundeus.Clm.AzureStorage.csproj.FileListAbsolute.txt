@@ -1,0 +1,29 @@
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\Sundeus.Clm.AzureStorage.deps.json
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\Sundeus.Clm.AzureStorage.dll
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\Sundeus.Clm.AzureStorage.pdb
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\obj\Release\netstandard2.0\Sundeus.Clm.AzureStorage.csproj.CoreCompileInputs.cache
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\obj\Release\netstandard2.0\Sundeus.Clm.AzureStorage.AssemblyInfoInputs.cache
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\obj\Release\netstandard2.0\Sundeus.Clm.AzureStorage.AssemblyInfo.cs
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\obj\Release\netstandard2.0\Sundeus.Clm.AzureStorage.dll
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\obj\Release\netstandard2.0\Sundeus.Clm.AzureStorage.pdb
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\obj\Release\netstandard2.0\Sundeus.Clm.AzureStorage.csprojAssemblyReference.cache
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\Microsoft.Office.Interop.Word.dll
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\office.dll
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\Microsoft.Vbe.Interop.dll
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\Microsoft.Office.Interop.Word.xml
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\office.xml
+C:\Users\Tejasi Porwal\source\repos\Sundeus\SundeusAddin\Sundeus.Clm.AzureStorage\obj\Release\netstandard2.0\Sundeus.Clm.AzureStorage.csproj.CopyComplete
+C:\Users\Abhinav\Documents\GitHub\VstoWordAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\Sundeus.Clm.AzureStorage.deps.json
+C:\Users\Abhinav\Documents\GitHub\VstoWordAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\Sundeus.Clm.AzureStorage.dll
+C:\Users\Abhinav\Documents\GitHub\VstoWordAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\Sundeus.Clm.AzureStorage.pdb
+C:\Users\Abhinav\Documents\GitHub\VstoWordAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\Microsoft.Office.Interop.Word.dll
+C:\Users\Abhinav\Documents\GitHub\VstoWordAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\office.dll
+C:\Users\Abhinav\Documents\GitHub\VstoWordAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\Microsoft.Vbe.Interop.dll
+C:\Users\Abhinav\Documents\GitHub\VstoWordAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\Microsoft.Office.Interop.Word.xml
+C:\Users\Abhinav\Documents\GitHub\VstoWordAddin\Sundeus.Clm.AzureStorage\bin\Release\netstandard2.0\office.xml
+C:\Users\Abhinav\Documents\GitHub\VstoWordAddin\Sundeus.Clm.AzureStorage\obj\Release\netstandard2.0\Sundeus.Clm.AzureStorage.csprojAssemblyReference.cache
+C:\Users\Abhinav\Documents\GitHub\VstoWordAddin\Sundeus.Clm.AzureStorage\obj\Release\netstandard2.0\Sundeus.Clm.AzureStorage.AssemblyInfoInputs.cache
+C:\Users\Abhinav\Documents\GitHub\VstoWordAddin\Sundeus.Clm.AzureStorage\obj\Release\netstandard2.0\Sundeus.Clm.AzureStorage.AssemblyInfo.cs
+C:\Users\Abhinav\Documents\GitHub\VstoWordAddin\Sundeus.Clm.AzureStorage\obj\Release\netstandard2.0\Sundeus.Clm.AzureStorage.csproj.CopyComplete
+C:\Users\Abhinav\Documents\GitHub\VstoWordAddin\Sundeus.Clm.AzureStorage\obj\Release\netstandard2.0\Sundeus.Clm.AzureStorage.dll
+C:\Users\Abhinav\Documents\GitHub\VstoWordAddin\Sundeus.Clm.AzureStorage\obj\Release\netstandard2.0\Sundeus.Clm.AzureStorage.pdb

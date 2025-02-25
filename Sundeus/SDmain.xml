@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+
+      <tab id="tabFirst" label="MMJC_Addin">
+
+        <group id="grpfirstGroup" visible="true" >
+
+          <button id="Template" getImage="GetImages" getEnabled="getEnabled" onAction="btnSelectTemplate_Click" label="Select Template" getSupertip="GetSuperTip" size="large"/>
+
+        </group>
+        <group id="grp2Group" visible="true" >
+
+          <button id="btnSelectContractType" getImage="GetImages" getEnabled="getEnabled" onAction="btnSelectContractType_Click" label="Create Template" getSupertip="GetSuperTip"  size="large"/>
+
+        </group>
+
+        <group id="grp4" >
+          <button id="btuploaddoc" getImage="GetImages" getEnabled="getEnabled" onAction="btUploadDoc_Click" label="Upload Template"  size="large" />
+
+        </group>
+
+        <group id="grp5" >
+          <button id="btclauses" getImage="GetImages" getEnabled="getEnabled" label="Save Clause" onAction="btClauses_Click" size="normal" />
+          <button id="btListOfAllClauses" getImage="GetImages" label="Clause List" onAction="btListOfAllClauses_Click" size="normal" />
+          <button id="btEditClauses" getImage="GetImages" label="Edit Clause" onAction="btEditClauses_Click" size="normal" />
+
+        </group>
+
+
+        <group id="grp7" >
+
+          <button id="btNMetadataList" getImage="GetImages" onAction="btNMetadataList_Click" getEnabled="getEnabled" label="Contract Type MetaData List" size="large" />
+
+        </group>
+
+        <group id="grp3" >
+
+          <button id="btNLogo" getImage="GetImages" onAction="btAbout_Click" getEnabled="getEnabled" label="About Us" size="large" />
+
+        </group>
+
+        <group id="grp6" >
+          <button id="btLoginLogout" getImage="GetImages" getLabel="getLabel" onAction="btLoginLogout_Click" size="large" />
+
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+
+  <contextMenus>
+
+
+
+    <contextMenu idMso="ContextMenuText">
+      <button id="AddClauses" onAction="btClauses_Click"  label="Add as clause"  />
+      <button id="AddSIgn1" onAction="btaddsignhere"  label="Sign here"  />
+
+    </contextMenu>
+  </contextMenus>
+
+</customUI>
+
